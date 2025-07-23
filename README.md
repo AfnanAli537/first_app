@@ -34,13 +34,13 @@ A Flutter mobile application built with clean architecture principles. This proj
 
 
 
-![Splash Screen](splash.png)
+![Splash Screen](splach.png)
 ![Login Screen](login.png)
 ![invalid Login Screen](invalidLogin.png)
 ![Sign up Screen](sign.png)
 ![invalid Sign up Screen](invalidSign.png)
-![OTP Verification Screen](otp.png)
-![Home Screen](home.png)
+![OTP Verification Screen](otppng.png)
+![Home Screen](Home.png)
 
 
 
